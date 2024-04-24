@@ -2,12 +2,6 @@
 
 This repository contains the term report for AE322, focused on the development and analysis of a UAV control system using Simulink and MATLAB.
 
-## Submitted by:
-
-- Anunay
-- Raj
-- Raman
-- Ritwik
 
 ## Contents:
 
@@ -25,7 +19,7 @@ This repository contains the term report for AE322, focused on the development a
 - Anunay
 - Raj
 - Raman
-- Ritwik
+- Ritwik 210866
 
 ## Contact:
 
