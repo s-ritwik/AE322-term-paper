@@ -2,7 +2,7 @@
 
 This repository contains the term report for AE322, focused on the development and analysis of a UAV control system using Simulink and MATLAB.
 
-- `AE322_report.pdf`: This file contains the main Simulink model for the UAV control system.
+- `AE322_report.pdf`: This file contains the main report.
 ## Contents:
 
 - The main Simulink UAV control system code
